@@ -1,8 +1,17 @@
 h1 {
-  color:blue;
+  color:red;
   text-align: center;
 }
 h6 {
   color: red;
   text-align: center;
+}
+div  {
+  background-color: blue;
+  width: 500px;
+  height: 400px;
+  margin: 30px;
+  padding: 20px;
+  font-family:Arial;
+  font-size: 28px;
 }
